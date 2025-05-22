@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Aswathy G (@aswathyg217)
+- 👋 Hi, I’m Aswathy Gopinatha Pillai (@aswathyg217)
 - 🚀 About Me:
   - 🌱 Currently pursuing a Master's degree in **Cybersecurity**.
   - 👀 Passionate about ethical hacking, secure software development, and innovative cybersecurity solutions.
